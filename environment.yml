@@ -16,3 +16,8 @@ dependencies:
       - otter-grader==6.1.6
       - huggingface_hub
       - docutils<0.20
+      - onnxruntime
+      - chromadb 
+      - langchain-text-splitters 
+      - langchain-community
+
