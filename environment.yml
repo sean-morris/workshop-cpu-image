@@ -22,5 +22,9 @@ dependencies:
       - chromadb 
       - langchain-text-splitters 
       - langchain-community
-      - datasets
+      - langchain-huggingface 
+      - langchain-chroma
+      - datasets 
+      - gpt4all
+      - gguf
 
